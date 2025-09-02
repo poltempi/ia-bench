@@ -1,0 +1,5 @@
+{
+  "name": "Benchmark de Modelos de IA",
+  "description": "Una aplicación web para visualizar y comparar el rendimiento y el costo de varios modelos de IA en un gráfico de dispersión interactivo.",
+  "requestFramePermissions": []
+}
